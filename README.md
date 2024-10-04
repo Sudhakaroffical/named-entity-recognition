@@ -24,6 +24,8 @@ We build a build a model using Input, Embedding, Bidirectional LSTM, Spatial Dro
 ### Step 7: 
 We compile the model and fit the train sets and validation sets,We plot the necessary graphs for analysis, A custom prediction is done to test the model manually.
 
+
+
 ## PROGRAM
 ### Name: SUDHAKAR K
 ### Reg no: 212222240107
